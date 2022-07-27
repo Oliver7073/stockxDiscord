@@ -4,7 +4,7 @@ from turtle import title
 import discord
 from main import search
 
-token = "OTk4OTc2MTg0MTIzNjU4Mzky.GqMYIk.hzkHSJjezlA9nBLPqHrfgE-FUtfGtGS9T1dHpc"
+token = "CHANGE TOKEN"
 
 client = discord.Client()
 
