@@ -1,7 +1,7 @@
 This program is a Discord bot that with the StockX and Discord networking API to return up to date statistics and details of a product on the StockX marketplace through a Discord webhook.
 
 # Setting up
-To get started, first clone the repo and open the files in your prefered IDE. Then inside the ``bot.py`` file, replace the "INSERT TOKEN" with your Discord bot token.
+To get started, first clone the repo and open the files in your prefered IDE. Then inside the ``bot.py`` file, replace the "CHANGE TOKEN" with your Discord bot token.
 
 # How to use
 To look up an item, you would type ``!stockx "PRODUCT_GOES_IN_HERE"``
